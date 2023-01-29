@@ -23,7 +23,7 @@ Then we want to run the server.
 Validate the HTML and CSS code.
 
 # Step 7:
-Publish the website in the given URL.#
+Publish the website in the given URL.
 
 # Step 6:
 Validate the HTML and CSS code.
@@ -106,8 +106,6 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 
-![](./kathir calculator)
-
-
-## Result:
+![Uploading kathir calculator.png…]()
+# Result
 The output for calculator is displayed successfully.

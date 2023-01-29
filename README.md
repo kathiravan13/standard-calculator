@@ -106,7 +106,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 
-![kathir calculator](https://user-images.githubusercontent.com/119831303/215304681-8fd52bd6-fb32-4371-8e34-cbc7516374d7.png)
+![](https://user-images.githubusercontent.com/119831303/215304681-8fd52bd6-fb32-4371-8e34-cbc7516374d7.png)
 
 
 

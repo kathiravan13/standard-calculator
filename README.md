@@ -104,8 +104,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+![kathir calculator](https://user-images.githubusercontent.com/119831303/215304788-115f3faa-8a9f-4baa-9ab6-4e55cbfa7648.png)
 
 
-![Uploading kathir calculator.png…]()
 # Result
 The output for calculator is displayed successfully.
